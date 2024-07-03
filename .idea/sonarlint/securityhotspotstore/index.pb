@@ -60,3 +60,7 @@ w
 G.idea/sonarlint/issuestore/8/8/88a9255124c95bdc913197c120a8d560edc59c8e,a\e\ae9ddf453f55affea2d6b9e3973cac1eb2efb4e1
 Å
 Q.idea/sonarlint/securityhotspotstore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,3\0\30205a209c6ce77c4cfc19a09e6f57c588b7fb88
+G
+src/ch2/CharToCode.java,c\4\c409711024e8d5b4025b9c407d8c65951baac0cc
+J
+src/ch2/SpecialCharEx.java,7\e\7eb0fc8724f9ce4d86ed48b9393cfede36dc9c24
