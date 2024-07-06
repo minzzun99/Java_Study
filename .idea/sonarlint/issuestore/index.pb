@@ -64,8 +64,6 @@ G
 src/ch2/CharToCode.java,c\4\c409711024e8d5b4025b9c407d8c65951baac0cc
 J
 src/ch2/SpecialCharEx.java,7\e\7eb0fc8724f9ce4d86ed48b9393cfede36dc9c24
-H
-src/ch2/OverfloowEx.java,2\c\2cf169d45e272b7661cb64c275995d806c48f624
 G
 src/ch2/OverflowEx.java,e\f\ef442d18dfd5b187a8f4f32cf4d9d8f6e4325dc1
 E
@@ -324,3 +322,11 @@ w
 G.idea/sonarlint/issuestore/b/b/bbf3ce147584c7d20886731dac58e4161ad4e986,e\2\e21a78d7141d362969551d30530fa5b075ae7610
 w
 G.idea/sonarlint/issuestore/8/8/88f5fadc3bf358ba54f5a3d83f05378e771abe8a,4\2\4245e0d168c9154013f31070105c54530123ff39
+H
+src/ch3/OperatorEx1.java,9\3\938b5b6da7baf9a863822a08ea6749303bb7fcd6
+H
+src/ch3/OperatorEx2.java,8\6\861b44fd46ff8aba7dac1243a2417b90211ff2a5
+H
+src/ch3/OperatorEx3.java,6\9\69b3a8ab01adf01957b057ff2e60694aafde0824
+H
+src/ch3/OperatorEx4.java,d\c\dca4afc5facc703c0707184d8047619f2b6c6723
