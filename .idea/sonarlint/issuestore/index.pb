@@ -382,3 +382,5 @@ I
 src/ch3/OperatorEx26.java,3\e\3eb342f9f2a5fc46fcb0c90b44b34a2a4aab32cd
 I
 src/ch3/OperatorEx27.java,2\b\2b17f83a621b1cbdf51a686cd79d80bda56a8ce7
+I
+src/ch3/OperatorEx32.java,f\0\f05ec61904e2aed60fc7a2e8e9851937fa1c7a70
