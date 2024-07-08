@@ -78,8 +78,6 @@ w
 G.idea/sonarlint/issuestore/3/0/30205a209c6ce77c4cfc19a09e6f57c588b7fb88,8\3\83c97b69f1983e71cd804a5894ec167e14452d2c
 Å
 Q.idea/sonarlint/securityhotspotstore/c/7/c7755d513758ed379e4b8c61e7d78eb7cdc75fc7,b\b\bbf3ce147584c7d20886731dac58e4161ad4e986
-Å
-Q.idea/sonarlint/securityhotspotstore/2/c/2cf169d45e272b7661cb64c275995d806c48f624,e\1\e146c6a26e78be260cb8853c9ee47aea92caa1b0
 w
 G.idea/sonarlint/issuestore/9/0/909762385fc6eb20f922a91c6865741308b57f2c,c\e\ce7799643a95553c6bee1d403d6cb738907a7f2c
 Å
@@ -341,8 +339,6 @@ H
 H
 src/ch3/OperatorEx9.java,e\1\e172d0989233d78a530c46a2ff5defbc1c15e165
 I
-src/ch3/Operator10Ex.java,d\e\ded6b25916548a96794f5ea65158d1b73a907783
-I
 src/ch3/OperatorEx10.java,8\4\8412aca62658028c158a598da9eda1a27a41e9a5
 I
 src/ch3/OperatorEx11.java,a\0\a0960a34699f262a1aacb70f612a51f87d4cc4d6
@@ -364,3 +360,9 @@ I
 src/ch3/OperatorEx19.java,a\d\addbc55280c5cdd59a0967c329cc97449f25749e
 I
 src/ch3/OperatorEx20.java,a\2\a29ce72ff74e6f34c569be11f0782a317e400b5b
+I
+src/ch3/OperatorEx21.java,e\4\e4198da5e9005d9d7c84beb9cfc76847c64f09f4
+I
+src/ch3/OperatorEx22.java,9\1\91b72e0d8bad4cfa74f7aa8437b48df437edb6d4
+I
+src/ch3/OperatorEx23.java,a\9\a9bd4a1cddd5b75415868970c1f7dbbde9589d1f
