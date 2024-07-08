@@ -366,3 +366,11 @@ I
 src/ch3/OperatorEx22.java,9\1\91b72e0d8bad4cfa74f7aa8437b48df437edb6d4
 I
 src/ch3/OperatorEx23.java,a\9\a9bd4a1cddd5b75415868970c1f7dbbde9589d1f
+I
+src/ch3/OperatorEx24.java,c\e\cef3fd535922646eafc26ce4a63645900e3e8caf
+I
+src/ch3/OperatorEx25.java,5\9\59a70761f853a21392456593440452a457f1aabe
+G
+src/ch3/Operator26.java,4\e\4ea46f7b2dccd5b8f0a8a86240670f8be16cfa26
+G
+src/ch3/Operator27.java,1\c\1ca7d140f6a93c71827970522cd81ac1bbe9f3e9
