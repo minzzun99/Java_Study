@@ -1,6 +1,6 @@
 package ch3;
 
-public class Operator26 {
+public class OperatorEx26 {
     public static void main(String[] args) {
         int a = 5;
         int b = 0;
