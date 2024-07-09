@@ -8,7 +8,6 @@ public class FlowEx5 {
         char grade = ' ', opt = '0';
 
         System.out.print("점수를 입력해주세요. > ");
-
         Scanner scanner = new Scanner(System.in);
         score = scanner.nextInt();
         System.out.printf("당신의 점수는 %d입니다.%n", score);
