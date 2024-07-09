@@ -390,3 +390,15 @@ D
 src/ch4/FlowEx4.java,4\1\41ba7c0f40d517c82eea8f184b28de5dd1143739
 D
 src/ch4/FlowEx5.java,7\2\72191e73f37759812c1b4a031031c33a95b92eb9
+D
+src/ch4/FlowEx6.java,9\b\9b64f389518f26fa6d2cb90180d6c1dae66f38a2
+D
+src/ch4/FlowEx7.java,5\0\50dd34e4a64ef6ba7116007537270a30a4350a59
+D
+src/ch4/FlowEx8.java,7\2\726fe158165f44dad21bd7198eee4844b663f27a
+D
+src/ch4/FlowEx9.java,c\8\c879ec795f989510c8e327913d08970b4988fa31
+E
+src/ch4/FlowEx10.java,b\7\b7be66c04307d6dd9562f54342deee103892ed41
+E
+src/ch4/FlowEx11.java,5\d\5d0147620fd1dbc130558914e0a7921e01284659
