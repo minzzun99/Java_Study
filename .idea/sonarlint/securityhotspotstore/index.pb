@@ -366,10 +366,6 @@ I
 src/ch3/OperatorEx24.java,c\e\cef3fd535922646eafc26ce4a63645900e3e8caf
 I
 src/ch3/OperatorEx25.java,5\9\59a70761f853a21392456593440452a457f1aabe
-G
-src/ch3/Operator26.java,4\e\4ea46f7b2dccd5b8f0a8a86240670f8be16cfa26
-G
-src/ch3/Operator27.java,1\c\1ca7d140f6a93c71827970522cd81ac1bbe9f3e9
 I
 src/ch3/OperatorEx28.java,5\c\5cb715d78590121e32e522756567506ca273a359
 I
@@ -384,3 +380,13 @@ I
 src/ch3/OperatorEx27.java,2\b\2b17f83a621b1cbdf51a686cd79d80bda56a8ce7
 I
 src/ch3/OperatorEx32.java,f\0\f05ec61904e2aed60fc7a2e8e9851937fa1c7a70
+D
+src/ch4/FlowEx1.java,9\4\941a97ed21917f028fe1362d980a72c914ef03b2
+D
+src/ch4/FlowEx2.java,b\3\b3afba399531a284dbef5536d75390ff6de9b826
+D
+src/ch4/FlowEx3.java,f\c\fcef05fd435d52401d0b941e3db5701fe5c6b82f
+D
+src/ch4/FlowEx4.java,4\1\41ba7c0f40d517c82eea8f184b28de5dd1143739
+D
+src/ch4/FlowEx5.java,7\2\72191e73f37759812c1b4a031031c33a95b92eb9
