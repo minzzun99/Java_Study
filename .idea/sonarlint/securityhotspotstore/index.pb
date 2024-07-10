@@ -422,3 +422,5 @@ E
 src/ch4/FlowEx20.java,6\3\6392846730009e834bbf86d6f43fa02dd26ef81d
 E
 src/ch4/FlowEx21.java,0\3\0397d2cc80f84fb2fb2dac2cef2ae28723f3e787
+E
+src/ch4/FlowEx22.java,4\4\44ddc02e2a0a4331196c382ed5ce2b70337cf92a
