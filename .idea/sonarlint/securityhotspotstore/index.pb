@@ -424,3 +424,13 @@ E
 src/ch4/FlowEx21.java,0\3\0397d2cc80f84fb2fb2dac2cef2ae28723f3e787
 E
 src/ch4/FlowEx22.java,4\4\44ddc02e2a0a4331196c382ed5ce2b70337cf92a
+E
+src/ch4/FlowEx23.java,8\9\8902eb56797b8b26660564c1d7a68a4057a896f4
+E
+src/ch4/FlowEx24.java,3\6\36333dac22c3760af40834e18905c718abfc9250
+E
+src/ch4/FlowEx25.java,f\2\f2fb642bd5998a4376ea7f9788741b39b5519783
+E
+src/ch4/FlowEx26.java,6\4\649439ad57c41fcdb03102c2e0403122ef893f61
+E
+src/ch4/FlowEx27.java,5\3\5302ec9d9e1ebcd382804f753164170decf06a12
