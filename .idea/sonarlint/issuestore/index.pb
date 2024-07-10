@@ -402,3 +402,11 @@ E
 src/ch4/FlowEx10.java,b\7\b7be66c04307d6dd9562f54342deee103892ed41
 E
 src/ch4/FlowEx11.java,5\d\5d0147620fd1dbc130558914e0a7921e01284659
+E
+src/ch4/FlowEx12.java,3\a\3a707bf7e877f80c15da4787ecd6237e5ac3217e
+E
+src/ch4/FlowEx13.java,3\e\3ed882b924fe38e02daf4b7ca2b725486bc70c65
+E
+src/ch4/FlowEx14.java,0\3\03d10f508d6fe2f40a34b55efe877aec3e8ef0f6
+E
+src/ch4/FlowEx15.java,7\f\7fd4901ba01bce69a3b4a44b579583bca2b428c4
