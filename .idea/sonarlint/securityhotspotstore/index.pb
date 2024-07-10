@@ -440,3 +440,7 @@ E
 src/ch4/FlowEx29.java,4\a\4a9e739867d4c5f630455e83215cfbb05c40fa42
 E
 src/ch4/FlowEx30.java,6\f\6f084f3d86a4297b771ef1d41134e38b93a230fd
+E
+src/ch4/FlowEx31.java,6\e\6e4866a61d82bfc16f370fc54ed027d9bdc41dd9
+E
+src/ch4/FlowEx32.java,9\c\9cf90760de3c920abc8daed68529bb50e234848d
