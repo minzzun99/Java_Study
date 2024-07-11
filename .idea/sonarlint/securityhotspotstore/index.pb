@@ -448,3 +448,11 @@ E
 src/ch4/FlowEx33.java,9\a\9aa4539d520e9e696e44e06246be6220ed3ba03d
 E
 src/ch4/FlowEx34.java,e\1\e1d1171ac1336aa9bb8b3508169ac87a1c808ba2
+E
+src/ch5/ArrayEx1.java,d\f\df84fe98aa779b2371821ae4fd8fa36c3d307560
+E
+src/ch5/ArrayEx2.java,0\8\082c0adecbaa9547f5f335d1f32ff02fdf463763
+E
+src/ch5/ArrayEx3.java,7\7\77f4bfdb0770adadb131aba0f7970accd00fe7f6
+E
+src/ch5/ArrayEx4.java,0\7\074e852ddaa5b8c12dab756fa746606c6d4ba191
