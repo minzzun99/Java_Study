@@ -456,3 +456,5 @@ E
 src/ch5/ArrayEx3.java,7\7\77f4bfdb0770adadb131aba0f7970accd00fe7f6
 E
 src/ch5/ArrayEx4.java,0\7\074e852ddaa5b8c12dab756fa746606c6d4ba191
+E
+src/ch5/ArrayEx5.java,b\7\b7ce1f4776c65484f6c1df53a8a2fdd64e4c8a42
