@@ -462,3 +462,5 @@ E
 src/ch5/ArrayEx6.java,5\7\578778ebd5a9f3a0343bb20ba470fb88046071a9
 E
 src/ch5/ArrayEx7.java,5\8\5831954e1bd8676cac1178eba06f8283b339066f
+E
+src/ch5/ArrayEx8.java,c\6\c62b10f70a7b485a9d240cd356c3529fbe766eb3
