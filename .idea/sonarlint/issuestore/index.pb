@@ -466,3 +466,5 @@ E
 src/ch5/ArrayEx8.java,c\6\c62b10f70a7b485a9d240cd356c3529fbe766eb3
 E
 src/ch5/ArrayEx9.java,d\a\da53376fd9a20c5aea679ea66691b0b9b9ff9fae
+F
+src/ch5/ArrayEx10.java,8\f\8f79eb2d4e3a3fd7322fef8daa7137eaa28a659e
