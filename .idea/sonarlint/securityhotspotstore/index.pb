@@ -470,3 +470,15 @@ F
 src/ch5/ArrayEx10.java,8\f\8f79eb2d4e3a3fd7322fef8daa7137eaa28a659e
 F
 src/ch5/ArrayEx11.java,c\4\c40b7f9c9f8e7370e4bcf64d52ba063adfd6545c
+F
+src/ch5/ArrayEx12.java,0\0\00b8ac5a68f38e025cb61f4229eb7a3c9211048b
+F
+src/ch5/ArrayEx13.java,2\9\299c6d7aa093d8ef54c48acf236d41983c7d3e0d
+F
+src/ch5/ArrayEx14.java,3\5\35bc0a8c4a884ff638c67df58d0172b842ae8a1f
+F
+src/ch5/ArrayEx15.java,7\b\7b43dc74ecf1ed311a9ae313b0bfb4e0683e432b
+F
+src/ch5/ArrayEx16.java,9\1\9114752f6452db24e09359d93c38258bd142a988
+F
+src/ch5/ArrayEx17.java,d\9\d90e56e797dad6ea79aed349960b4249b5459aa0
