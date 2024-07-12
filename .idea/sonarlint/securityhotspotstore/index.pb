@@ -482,3 +482,7 @@ F
 src/ch5/ArrayEx16.java,9\1\9114752f6452db24e09359d93c38258bd142a988
 F
 src/ch5/ArrayEx17.java,d\9\d90e56e797dad6ea79aed349960b4249b5459aa0
+F
+src/ch5/ArrayEx18.java,b\7\b7119f0a58467e9661946ade5c0e83727d4724b8
+F
+src/ch5/ArrayEx19.java,3\6\3609117225d0200789688ee27f3cf1b3936efe01
