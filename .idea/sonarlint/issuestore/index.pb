@@ -486,3 +486,11 @@ F
 src/ch5/ArrayEx18.java,b\7\b7119f0a58467e9661946ade5c0e83727d4724b8
 F
 src/ch5/ArrayEx19.java,3\6\3609117225d0200789688ee27f3cf1b3936efe01
+H
+src/ch5/MultiArrEx1.java,7\e\7e14e31c56de04e0767ca118e5eab2f0b76f006c
+H
+src/ch5/MultiArrEx2.java,f\9\f995dc262e98c44d9624ccba79917714aa88c7e1
+H
+src/ch5/MultiArrEx3.java,c\d\cd0caf95cb64f2cf436b89ffdbfdc899c0b77cc3
+H
+src/ch5/MultiArrEx4.java,8\f\8f9fa6617c4088b4e4c760efffcbe8647f1ec2bb
