@@ -500,3 +500,5 @@ D
 src/ch6/TvTest2.java,9\4\94fcd80dbe3eb41c9fa31239b9e8f38dc91320d0
 D
 src/ch6/TvTest3.java,0\f\0fed889dda83e25ed4652a6e3ba39a8ad87eaf5c
+D
+src/ch6/TvTest4.java,1\8\18e0924991cbdf1ca5008700bb46e48be4017eb8
