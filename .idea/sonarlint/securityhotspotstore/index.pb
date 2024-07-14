@@ -496,3 +496,7 @@ H
 src/ch5/MultiArrEx4.java,8\f\8f9fa6617c4088b4e4c760efffcbe8647f1ec2bb
 C
 src/ch6/TvTest.java,4\8\482b2b035ba403ea9e585e03ef59de34b070e4f6
+D
+src/ch6/TvTest2.java,9\4\94fcd80dbe3eb41c9fa31239b9e8f38dc91320d0
+D
+src/ch6/TvTest3.java,0\f\0fed889dda83e25ed4652a6e3ba39a8ad87eaf5c
