@@ -1,0 +1,10 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïƒ§ÿ8«­„·‰2
+V
+java:S1854"9Remove this useless assignment to local variable "grade".(£¼¢Ø8¯­„·‰2
+>
+java:S1659"!Declare "opt" on a separate line.(£¼¢Ø8¯­„·‰2
+L	java:S106
+"+Replace this use of System.out by a logger.(¸ìšÒÿÿÿÿÿ8°­„·‰2
+L	java:S106"+Replace this use of System.out by a logger.(Æ†Õäÿÿÿÿÿ8²­„·‰2
+G	java:S106 "+Replace this use of System.out by a logger.(öÏžµ8°Øˆ·‰2

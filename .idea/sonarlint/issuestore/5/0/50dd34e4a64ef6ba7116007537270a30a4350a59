@@ -1,0 +1,15 @@
+
+e
+java:S6208"CMerge the previous cases into this one using comma-separated label.(°åüøùÿÿÿÿ8ûì¼·‰2
+`
+java:S6208"CMerge the previous cases into this one using comma-separated label.(óùËÀ8ûì¼·‰2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïƒ§ÿ8ş´·‰2
+G	java:S106"+Replace this use of System.out by a logger.(ÅÜËÏ8¡ş´·‰2
+K
+java:S2140")Use "java.util.Random.nextInt()" instead.(Ê–ÃÌúÿÿÿÿ8²µµ·‰2
+L	java:S106"+Replace this use of System.out by a logger.(í–åüÿÿÿÿ8ô¯¸·‰2
+L	java:S106"+Replace this use of System.out by a logger.(Ö¦¢Èÿÿÿÿÿ8ƒí¼·‰2
+C	java:S131""Add a default case to this switch.(Ş•öñùÿÿÿÿ8ƒí¼·‰2
+L	java:S106"+Replace this use of System.out by a logger.(Çê‹Ñÿÿÿÿÿ8ƒí¼·‰2
+L	java:S106"+Replace this use of System.out by a logger.(ÿ¤íôıÿÿÿÿ8ƒí¼·‰2
+G	java:S106"+Replace this use of System.out by a logger.(Å‡ï 8…í¼·‰2

@@ -1,0 +1,25 @@
+
+e
+java:S1192*"JDefine a constant instead of duplicating this literal "result = " 3 times.(‡ú[8ïñäå‰2
+u	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™8ğñäå‰2
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8ğñäå‰2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïƒ§ÿ8ôñäå‰2
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Çµí‘8ƒöäå‰2
+C
+java:S1659"!Declare "num" on a separate line.(Ø§éûÿÿÿÿ8„öäå‰2
+W
+java:S1119
+";Refactor the code to remove this label and the need for it.(àÏÅ)8ˆöäå‰2
+G	java:S106"+Replace this use of System.out by a logger.(ƒÖœ€8Šöäå‰2
+G	java:S106"+Replace this use of System.out by a logger.(­ÉŒà8Šöäå‰2
+L	java:S106"+Replace this use of System.out by a logger.(õ¶†æşÿÿÿÿ8Šöäå‰2
+G	java:S106"+Replace this use of System.out by a logger.(¨íÑí8Šöäå‰2
+L	java:S106"+Replace this use of System.out by a logger.(Ùİ–±úÿÿÿÿ8‹öäå‰2
+L	java:S106"+Replace this use of System.out by a logger.(Ç¤úÿÿÿÿ8Œöäå‰2
+G	java:S106"+Replace this use of System.out by a logger.( æÖÿ8Œöäå‰2
+=	java:S131(""Add a default case to this switch.(€ä¿;8‘öäå‰2
+E	java:S106*"+Replace this use of System.out by a logger.(‡ú[8’öäå‰2
+G	java:S106-"+Replace this use of System.out by a logger.(‹û—ô8“öäå‰2
+G	java:S1060"+Replace this use of System.out by a logger.(¢ß¨8”öäå‰2
+X	java:S1253"<This block of commented-out lines of code should be removed.(Ã·Œ8ŒÍæå‰2

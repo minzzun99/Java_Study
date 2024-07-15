@@ -1,0 +1,46 @@
+
+x
+java:S1192"VDefine a constant instead of duplicating this literal "%d >> %d = %4d \t%s%n" 6 times.(¦ÙØÇùÿÿÿÿ8—°ˆ•‰2
+s
+java:S1192"VDefine a constant instead of duplicating this literal "%d << %d = %4d \t%s%n" 6 times.(ßë¸8˜°ˆ•‰2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆˆõô8š°ˆ•‰2
+L	java:S106"+Replace this use of System.out by a logger.(¦ÙØÇùÿÿÿÿ8°°ˆ•‰2
+L	java:S106"+Replace this use of System.out by a logger.(Í×Ïúÿÿÿÿ8°°ˆ•‰2
+G	java:S106"+Replace this use of System.out by a logger.(ŞêÅã8±°ˆ•‰2
+G	java:S106"+Replace this use of System.out by a logger.(ßë¸8±°ˆ•‰2
+L	java:S106"+Replace this use of System.out by a logger.(Âİğ·øÿÿÿÿ8²°ˆ•‰2
+G	java:S106"+Replace this use of System.out by a logger.(“©şœ8²°ˆ•‰2
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8³°ˆ•‰2
+L	java:S106"+Replace this use of System.out by a logger.(¦ÙØÇùÿÿÿÿ8³°ˆ•‰2
+L	java:S106"+Replace this use of System.out by a logger.(Í×Ïúÿÿÿÿ8´°ˆ•‰2
+G	java:S106"+Replace this use of System.out by a logger.(ŞêÅã8´°ˆ•‰2
+G	java:S106"+Replace this use of System.out by a logger.(ßë¸8µ°ˆ•‰2
+L	java:S106"+Replace this use of System.out by a logger.(Âİğ·øÿÿÿÿ8µ°ˆ•‰2
+G	java:S106"+Replace this use of System.out by a logger.(“©şœ8µ°ˆ•‰2
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8¶°ˆ•‰2
+L	java:S106"+Replace this use of System.out by a logger.(Äòı‰øÿÿÿÿ8¶°ˆ•‰2
+L	java:S106 "+Replace this use of System.out by a logger.(œÙûÿÿÿÿ8¶°ˆ•‰2
+;
+java:S2183"Remove this useless shift(¦ÙØÇùÿÿÿÿ8·°ˆ•‰2
+;
+java:S2183"Remove this useless shift(¦ÙØÇùÿÿÿÿ8·°ˆ•‰2
+6
+java:S2183"Remove this useless shift(ßë¸8·°ˆ•‰2
+6
+java:S2183"Remove this useless shift(ßë¸8·°ˆ•‰2
+;
+java:S2183"Remove this useless shift(¦ÙØÇùÿÿÿÿ8·°ˆ•‰2
+;
+java:S2183"Remove this useless shift(¦ÙØÇùÿÿÿÿ8·°ˆ•‰2
+6
+java:S2183"Remove this useless shift(ßë¸8·°ˆ•‰2
+6
+java:S2183"Remove this useless shift(ßë¸8·°ˆ•‰2
+;
+java:S2183"Remove this useless shift(Äòı‰øÿÿÿÿ8·°ˆ•‰2
+;
+java:S2183"Remove this useless shift(Äòı‰øÿÿÿÿ8·°ˆ•‰2
+;
+java:S2183 "Remove this useless shift(œÙûÿÿÿÿ8¸°ˆ•‰2
+;
+java:S2183 "Remove this useless shift(œÙûÿÿÿÿ8¸°ˆ•‰2

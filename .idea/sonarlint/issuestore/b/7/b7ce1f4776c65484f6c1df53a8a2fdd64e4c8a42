@@ -1,0 +1,6 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­νÿψÿÿÿÿ
+]
+java:S1854";Remove this useless assignment to local variable "average".(‡©Ιθόÿÿÿÿ8…Ό“2
+L	java:S106"+Replace this use of System.out by a logger.(γ•—ωÿÿÿÿ8φά“2
+G	java:S106"+Replace this use of System.out by a logger.(±Φβέ8φά“2

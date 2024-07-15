@@ -1,0 +1,13 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­íÿøÿÿÿÿ8ÈÖİ°Š2
+Y
+java:S1854"7Remove this useless assignment to local variable "avg".(Å÷ôùÿÿÿÿ8ÒÖİ°Š2
+b
+java:S1659"EDeclare "engTotal" and all following declarations on a separate line.(™¨Â‘8ÒÖİ°Š2
+G	java:S106"+Replace this use of System.out by a logger.(ÿ×¿8ÓÖİ°Š2
+G	java:S106"+Replace this use of System.out by a logger.(‹ñõ’8ÓÖİ°Š2
+L	java:S106"+Replace this use of System.out by a logger.(àËÌÂúÿÿÿÿ8ÔÖİ°Š2
+G	java:S106"+Replace this use of System.out by a logger.(Ñ¾Õî8ÔÖİ°Š2
+G	java:S106"+Replace this use of System.out by a logger.(Ş”§°8ÔÖİ°Š2
+G	java:S106""+Replace this use of System.out by a logger.(‹ñõ’8€…ß°Š2
+L	java:S106#"+Replace this use of System.out by a logger.(¥Ğ”ˆøÿÿÿÿ8¨á°Š2

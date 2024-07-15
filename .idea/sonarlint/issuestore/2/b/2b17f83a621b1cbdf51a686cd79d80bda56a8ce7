@@ -1,0 +1,17 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆˆõô
+E	java:S106"+Replace this use of System.out by a logger.(¹É¸ıÿÿÿÿÿ
+?	java:S106	"+Replace this use of System.out by a logger.(øóùU
+E	java:S106
+"+Replace this use of System.out by a logger.(ÔÂÇâùÿÿÿÿ
+=
+java:S2761
+""Remove multiple operator prefixes.(ÔÂÇâùÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(Ì“
+8
+java:S2761""Remove multiple operator prefixes.(Ì“
+E	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(åİÎÀ
+E	java:S106"+Replace this use of System.out by a logger.(Ô¼İ÷ùÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(æŞËû
+@	java:S106"+Replace this use of System.out by a logger.(ˆ¯„â

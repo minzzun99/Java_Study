@@ -1,0 +1,18 @@
+
+e
+java:S6208"CMerge the previous cases into this one using comma-separated label.(ÎÑáğıÿÿÿÿ8şÂ’¸‰2
+`
+java:S6208"CMerge the previous cases into this one using comma-separated label.(©ÓÌâ8şÂ’¸‰2
+m
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(á°Åñüÿÿÿÿ8şÂ’¸‰2
+m
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(á°Åñüÿÿÿÿ8şÂ’¸‰2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïƒ§ÿ8ÿÂ’¸‰2
+G	java:S106"+Replace this use of System.out by a logger.(ì˜ÿˆ8…Ã’¸‰2
+C	java:S131""Add a default case to this switch.(á°Åñüÿÿÿÿ8‡Ã’¸‰2
+L	java:S106"+Replace this use of System.out by a logger.(ÄÒ‘…úÿÿÿÿ8‡Ã’¸‰2
+L	java:S106"+Replace this use of System.out by a logger.(À¡„ˆşÿÿÿÿ8‡Ã’¸‰2
+C	java:S131""Add a default case to this switch.(á°Åñüÿÿÿÿ8‡Ã’¸‰2
+L	java:S106"+Replace this use of System.out by a logger.(õœ¥Ÿúÿÿÿÿ8‡Ã’¸‰2
+L	java:S106"+Replace this use of System.out by a logger.(çüøÿÿÿÿÿ8‡Ã’¸‰2
+G	java:S106$"+Replace this use of System.out by a logger.(ÅÂø8ŒØ”¸‰2

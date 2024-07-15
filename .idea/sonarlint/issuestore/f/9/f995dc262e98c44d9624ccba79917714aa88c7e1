@@ -1,0 +1,16 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­íÿøÿÿÿÿ8ç‡À±Š2
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Çµí‘8ö‰À±Š2
+[
+java:S1659">Declare "y" and all following declarations on a separate line.(Ì»Ö8÷‰À±Š2
+K
+java:S2140")Use "java.util.Random.nextInt()" instead.(õåÉ¹ıÿÿÿÿ8ù‰À±Š2
+K
+java:S2140")Use "java.util.Random.nextInt()" instead.(›šô‰şÿÿÿÿ8ù‰À±Š2
+L	java:S106#"+Replace this use of System.out by a logger.(€ëû”şÿÿÿÿ8ú‰À±Š2
+L	java:S106%"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ú‰À±Š2
+L	java:S106'"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ú‰À±Š2
+L	java:S106)"+Replace this use of System.out by a logger.(¼Ê–êûÿÿÿÿ8ú‰À±Š2
+W
+java:S1119-";Refactor the code to remove this label and the need for it.(àÏÅ)8û‰À±Š2

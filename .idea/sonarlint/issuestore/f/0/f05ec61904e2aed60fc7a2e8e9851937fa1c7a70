@@ -1,0 +1,25 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆˆõô8¿†·•‰2
+e
+java:S2583"CChange this condition so that it does not always evaluate to "true"(ğçÎÕÿÿÿÿÿ8”ßÅ•‰2
+f
+java:S2583"DChange this condition so that it does not always evaluate to "false"(ßú—®şÿÿÿÿ8İõÁ•‰2
+e
+java:S2583"CChange this condition so that it does not always evaluate to "true"(©ÛšĞıÿÿÿÿ8Î’¹•‰2
+f
+java:S2583"DChange this condition so that it does not always evaluate to "false"(ğçÎÕÿÿÿÿÿ8¢³Æ•‰2
+Z
+java:S1659">Declare "y" and all following declarations on a separate line.(ÅÜ \8Ä†·•‰2
+^
+java:S1659"ADeclare "absY" and all following declarations on a separate line.(ªşòû8Ä†·•‰2
+d
+java:S1659"BDeclare "signY" and all following declarations on a separate line.(§¸‚Ÿüÿÿÿÿ8Ä†·•‰2
+f
+java:S3358"DExtract this nested ternary operation into an independent statement.(ßú—®şÿÿÿÿ8âõÁ•‰2
+f
+java:S3358"DExtract this nested ternary operation into an independent statement.(â†¡Ûÿÿÿÿÿ8ÆÌÅ•‰2
+f
+java:S3358"DExtract this nested ternary operation into an independent statement.(ğçÎÕÿÿÿÿÿ8ÇÌÅ•‰2
+L	java:S106"+Replace this use of System.out by a logger.(‡«éåøÿÿÿÿ8ª³Æ•‰2
+L	java:S106"+Replace this use of System.out by a logger.(´°Ø–ÿÿÿÿÿ8üçÈ•‰2
+G	java:S106"+Replace this use of System.out by a logger.(ù–˜‘8üçÈ•‰2

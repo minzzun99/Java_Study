@@ -1,0 +1,9 @@
+
+e
+java:S6208"CMerge the previous cases into this one using comma-separated label.(òï±êÿÿÿÿÿ8­®‡¸‰2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïƒ§ÿ8®®‡¸‰2
+V
+java:S1854"9Remove this useless assignment to local variable "grade".(œ×—É8´®‡¸‰2
+L	java:S106
+"+Replace this use of System.out by a logger.(©šòëùÿÿÿÿ8´®‡¸‰2
+L	java:S106"+Replace this use of System.out by a logger.(Éİ÷şÿÿÿÿ8µ®‡¸‰2

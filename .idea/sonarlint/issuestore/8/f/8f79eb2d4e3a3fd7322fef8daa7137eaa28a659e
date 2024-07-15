@@ -1,0 +1,11 @@
+
+P
+java:S1121".Extract the assignment out of this expression.(Á†ŞÎıÿÿÿÿ8ÙÙí“Š2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­íÿøÿÿÿÿ8ÚÙí“Š2
+L	java:S106"+Replace this use of System.out by a logger.(Á†ŞÎıÿÿÿÿ8òÙí“Š2
+K
+java:S2140")Use "java.util.Random.nextInt()" instead.(Á†ŞÎıÿÿÿÿ8òÙí“Š2
+L	java:S106
+"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8òÙí“Š2
+F	java:S106"+Replace this use of System.out by a logger.(ÉûºY8óÙí“Š2
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Ğñí“Š2

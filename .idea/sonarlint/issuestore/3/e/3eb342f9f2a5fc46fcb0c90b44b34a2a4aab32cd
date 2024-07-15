@@ -1,0 +1,14 @@
+
+l
+java:S1192"QDefine a constant instead of duplicating this literal "a = %d, b = %d%n" 3 times.(ş¦†ûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆˆõô
+S
+java:S2589"8Remove this expression which always evaluates to "false"(ùè¹üÿÿÿÿ
+R
+java:S2589	"7Remove this expression which always evaluates to "true"(ÇÑÜ’ÿÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ş¦†ûÿÿÿÿ
+E	java:S106	"+Replace this use of System.out by a logger.(ÇÑÜ’ÿÿÿÿÿ
+E	java:S106
+"+Replace this use of System.out by a logger.(ş¦†ûÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ùè¹üÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ş¦†ûÿÿÿÿ
