@@ -1038,3 +1038,11 @@ A
 src/ch6/Data.java,b\8\b825bd13d73cb20c1ef2f320a27ee602cffb748a
 N
 src/ch6/ReferenceReturnEx.java,1\d\1decc6b798e61c8453346f83a617297381aaa57d
+J
+src/ch6/FactorialTest.java,a\8\a8148dd8bd9478a6b3a401f2577aaaa9aecf0377
+K
+src/ch6/FactorialTest2.java,6\3\63af01800576e4d8640e66d654418ac3887e4232
+E
+src/ch6/MainTest.java,d\2\d2a5306de6d37d2b39fe47f881418996a15ca1df
+F
+src/ch6/PowerTest.java,f\5\f5c4588fe3c6f3a8c43dcd6d40100f13520cb140
