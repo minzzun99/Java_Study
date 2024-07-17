@@ -1050,3 +1050,7 @@ H
 src/ch6/MyMathTest2.java,3\3\334871f3290d3f07ad0e580d8c8c5d79a89254da
 G
 src/ch6/MemberCall.java,f\9\f9609635e848f337fea2ecb51b97342d6a735e07
+L
+src/ch6/OverloadingTest.java,e\9\e94036e8d9e1954e6f726b5d23222aa77b6ce4b6
+E
+src/ch6/VarArgEx.java,9\1\9110d84bf3cbdecc097d48b559211e75ee486c0a
