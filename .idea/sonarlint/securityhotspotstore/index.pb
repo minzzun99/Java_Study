@@ -1036,3 +1036,5 @@ G
 src/ch6/ReturnTest.java,7\3\739801c251a00cfbacffc71dc834a22aeb3a169d
 A
 src/ch6/Data.java,b\8\b825bd13d73cb20c1ef2f320a27ee602cffb748a
+N
+src/ch6/ReferenceReturnEx.java,1\d\1decc6b798e61c8453346f83a617297381aaa57d
