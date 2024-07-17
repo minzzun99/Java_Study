@@ -1046,3 +1046,7 @@ E
 src/ch6/MainTest.java,d\2\d2a5306de6d37d2b39fe47f881418996a15ca1df
 F
 src/ch6/PowerTest.java,f\5\f5c4588fe3c6f3a8c43dcd6d40100f13520cb140
+H
+src/ch6/MyMathTest2.java,3\3\334871f3290d3f07ad0e580d8c8c5d79a89254da
+G
+src/ch6/MemberCall.java,f\9\f9609635e848f337fea2ecb51b97342d6a735e07
