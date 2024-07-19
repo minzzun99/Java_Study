@@ -1062,3 +1062,7 @@ E
 src/ch6/CarTest2.java,b\1\b1aa7f6a3de2a0fa6609cad425bed24d40fbf4ac
 E
 src/ch6/CarTest3.java,8\1\81482040a5c5b217b3cefed5f60785f9d20c4b39
+F
+src/ch6/BlockTest.java,d\3\d37abe0ccc1c249bae37630a418d02a60e58fcd2
+L
+src/ch6/StaticBlockTest.java,b\5\b510ba8ccb55598f176e1f7b73f1cd48c7bbabcb
