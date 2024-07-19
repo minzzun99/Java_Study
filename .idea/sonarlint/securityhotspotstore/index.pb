@@ -1066,3 +1066,7 @@ F
 src/ch6/BlockTest.java,d\3\d37abe0ccc1c249bae37630a418d02a60e58fcd2
 L
 src/ch6/StaticBlockTest.java,b\5\b510ba8ccb55598f176e1f7b73f1cd48c7bbabcb
+H
+src/ch6/ProductTest.java,7\f\7f683ab06c3a7592b799d47d05645554d5308742
+I
+src/ch6/DocumentTest.java,9\e\9e20cfdcf112391d1be9b4e61e811850632232ba
