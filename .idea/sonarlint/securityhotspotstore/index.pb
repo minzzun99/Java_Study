@@ -1054,3 +1054,7 @@ L
 src/ch6/OverloadingTest.java,e\9\e94036e8d9e1954e6f726b5d23222aa77b6ce4b6
 E
 src/ch6/VarArgEx.java,9\1\9110d84bf3cbdecc097d48b559211e75ee486c0a
+L
+src/ch6/ConstructorTest.java,e\c\ec19c89ee5a6880189395ab964c11b732931dd67
+D
+src/ch6/CarTest.java,d\d\dd9c7ff7b8481abe52457570068f8509eee5da90
