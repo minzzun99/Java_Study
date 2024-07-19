@@ -1058,3 +1058,7 @@ L
 src/ch6/ConstructorTest.java,e\c\ec19c89ee5a6880189395ab964c11b732931dd67
 D
 src/ch6/CarTest.java,d\d\dd9c7ff7b8481abe52457570068f8509eee5da90
+E
+src/ch6/CarTest2.java,b\1\b1aa7f6a3de2a0fa6609cad425bed24d40fbf4ac
+E
+src/ch6/CarTest3.java,8\1\81482040a5c5b217b3cefed5f60785f9d20c4b39
