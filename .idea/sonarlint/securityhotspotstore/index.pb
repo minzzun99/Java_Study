@@ -1070,3 +1070,5 @@ H
 src/ch6/ProductTest.java,7\f\7f683ab06c3a7592b799d47d05645554d5308742
 I
 src/ch6/DocumentTest.java,9\e\9e20cfdcf112391d1be9b4e61e811850632232ba
+J
+src/ch7/CaptionTvTest.java,5\b\5be3126b9bf4b26ec0adb9be0d6c7ced5bd793f6
