@@ -1072,3 +1072,11 @@ I
 src/ch6/DocumentTest.java,9\e\9e20cfdcf112391d1be9b4e61e811850632232ba
 J
 src/ch7/CaptionTvTest.java,5\b\5be3126b9bf4b26ec0adb9be0d6c7ced5bd793f6
+F
+src/ch7/DrawShape.java,4\2\42b7f907f10d240412438fd26a791b088b9b08ba
+E
+src/ch7/DeckTest.java,b\0\b0d34abae5ddd8409691efcdb31ec66dc0007790
+A
+src/ch7/TVCR.java,d\d\dd26b14ab872f4a25fadd761f45dbe2f57bd3901
+?
+src/ch7/Tv.java,f\0\f0874679a325de4fa884b67bf8516214dc043639
