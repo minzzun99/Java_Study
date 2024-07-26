@@ -1078,5 +1078,7 @@ E
 src/ch7/DeckTest.java,b\0\b0d34abae5ddd8409691efcdb31ec66dc0007790
 A
 src/ch7/TVCR.java,d\d\dd26b14ab872f4a25fadd761f45dbe2f57bd3901
-?
-src/ch7/Tv.java,f\0\f0874679a325de4fa884b67bf8516214dc043639
+F
+src/ch7/SuperTest.java,5\6\56f3780e623a41a66d9d2de82ef3a157af98a038
+G
+src/ch7/SuperTest2.java,4\0\40660eb0edaedcca179022944ca35eb9b271cf2c
