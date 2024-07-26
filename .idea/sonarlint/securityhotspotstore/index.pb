@@ -1082,3 +1082,7 @@ F
 src/ch7/SuperTest.java,5\6\56f3780e623a41a66d9d2de82ef3a157af98a038
 G
 src/ch7/SuperTest2.java,4\0\40660eb0edaedcca179022944ca35eb9b271cf2c
+F
+src/ch7/PointTest.java,1\d\1d527df95542c863ca05a606163561d53edf3823
+G
+src/ch7/PointTest2.java,d\7\d7d93eacb10898ba05fff3071de2699c5a092e44
