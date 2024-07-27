@@ -1089,6 +1089,4 @@ G
 T
 $src/ch7/OverridingOverloadingEx.java,b\6\b69e2f956a9df17c2dd38a452c68b83b869b844a
 G
-src/ch7/PakageTest.java,3\9\398ff91ed213ddcbe15292132ad74f0c3352d676
-H
-src/ch7/PackageTest.java,e\4\e40d8a760d9163587168ed5bd7d78a09399deda6
+src/ch7/ImportTest.java,f\6\f6cdb3133e07736d84fee77fbad9944dfda60761
