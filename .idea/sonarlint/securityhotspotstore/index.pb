@@ -1090,3 +1090,5 @@ T
 $src/ch7/OverridingOverloadingEx.java,b\6\b69e2f956a9df17c2dd38a452c68b83b869b844a
 G
 src/ch7/ImportTest.java,f\6\f6cdb3133e07736d84fee77fbad9944dfda60761
+L
+src/ch7/StaticImportEx1.java,1\f\1f29b3d231cfae1bf97f96e47922f0cfda4357db
