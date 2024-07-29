@@ -1096,3 +1096,5 @@ J
 src/ch7/FinalCardTest.java,9\e\9e6d5226d4ac852517f8ef22cd3007dc61c064bc
 E
 src/ch7/TimeTest.java,e\e\ee49b8c55b3771d297628b606c2a51501129c607
+J
+src/ch7/SingletonTest.java,e\5\e5a97c97b50a0dc6cf5696c6f1eae7c0e76d2e23
