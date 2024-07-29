@@ -1098,3 +1098,5 @@ E
 src/ch7/TimeTest.java,e\e\ee49b8c55b3771d297628b606c2a51501129c607
 J
 src/ch7/SingletonTest.java,e\5\e5a97c97b50a0dc6cf5696c6f1eae7c0e76d2e23
+I
+src/ch7/CastingTest1.java,2\5\25f54a38783c44107d331f6c778d9dc7587e6ea3
