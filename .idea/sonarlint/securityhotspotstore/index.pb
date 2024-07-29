@@ -1094,3 +1094,5 @@ L
 src/ch7/StaticImportEx1.java,1\f\1f29b3d231cfae1bf97f96e47922f0cfda4357db
 J
 src/ch7/FinalCardTest.java,9\e\9e6d5226d4ac852517f8ef22cd3007dc61c064bc
+E
+src/ch7/TimeTest.java,e\e\ee49b8c55b3771d297628b606c2a51501129c607
