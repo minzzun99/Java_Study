@@ -1104,3 +1104,7 @@ L
 src/ch7/CastingTesting2.java,4\1\41fecd82cab09ab185c2abbd0ea8897e94c154f3
 K
 src/ch7/InstanceofTest.java,6\5\65608aced9c47587ea82d404cfea2712fa2c5a51
+H
+src/ch7/BindingTest.java,b\e\be3e977a0c84a68538757967888304b5d4d42a8f
+I
+src/ch7/BindingTest2.java,5\7\573f1f9f51f0f316990901d9ccde6a44efb99d69
