@@ -1100,7 +1100,7 @@ J
 src/ch7/SingletonTest.java,e\5\e5a97c97b50a0dc6cf5696c6f1eae7c0e76d2e23
 I
 src/ch7/CastingTest1.java,2\5\25f54a38783c44107d331f6c778d9dc7587e6ea3
-H
-src/ch7/CarTesting2.java,1\1\11ee0bc21831dd18f0bd5cced275e62d0eb4a668
 L
 src/ch7/CastingTesting2.java,4\1\41fecd82cab09ab185c2abbd0ea8897e94c154f3
+K
+src/ch7/InstanceofTest.java,6\5\65608aced9c47587ea82d404cfea2712fa2c5a51
