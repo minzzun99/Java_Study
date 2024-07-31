@@ -1112,3 +1112,7 @@ I
 src/ch7/BindingTest3.java,4\5\45aa862d7c2f98e67d4c8e4f0f5ab0f4065402ed
 M
 src/ch7/PolyArgumentTest.java,3\6\365b1c4650520f66688dded483e2aa19c37428b8
+N
+src/ch7/PolyArgumentTest2.java,7\4\747f5911b36790c82761b073d290e8834a00444a
+N
+src/ch7/PolyArgumentTest3.java,e\0\e094312a7b2380e201a0c996ad84ecc56870f85b
