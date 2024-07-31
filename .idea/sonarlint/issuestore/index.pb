@@ -1108,3 +1108,5 @@ H
 src/ch7/BindingTest.java,b\e\be3e977a0c84a68538757967888304b5d4d42a8f
 I
 src/ch7/BindingTest2.java,5\7\573f1f9f51f0f316990901d9ccde6a44efb99d69
+I
+src/ch7/BindingTest3.java,4\5\45aa862d7c2f98e67d4c8e4f0f5ab0f4065402ed
