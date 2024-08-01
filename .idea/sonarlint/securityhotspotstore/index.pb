@@ -1116,3 +1116,5 @@ N
 src/ch7/PolyArgumentTest2.java,7\4\747f5911b36790c82761b073d290e8834a00444a
 N
 src/ch7/PolyArgumentTest3.java,e\0\e094312a7b2380e201a0c996ad84ecc56870f85b
+H
+src/ch7/FighterTest.java,a\2\a20aee0818488d8451d7953b5746bb98b2c0350a
