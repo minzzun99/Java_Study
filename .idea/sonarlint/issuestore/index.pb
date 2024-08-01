@@ -1120,3 +1120,5 @@ H
 src/ch7/FighterTest.java,a\2\a20aee0818488d8451d7953b5746bb98b2c0350a
 G
 src/ch7/ParserTest.java,a\9\a9aa307456d5c4e11386aec9f448a77569eef722
+K
+src/ch7/RepairableTest.java,8\3\83e6c19538b449ff099f7ae724978c90d6296ca0
