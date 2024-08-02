@@ -1130,3 +1130,13 @@ K
 src/ch7/InterfaceTest3.java,0\e\0ed614db67a1e448403d929d016eeaf6189d9048
 N
 src/ch7/DefaultMethodTest.java,e\1\e130c17cda33a738fe76981fd39a05bb825321b6
+E
+src/ch7/InnerEx1.java,4\7\478b2d6dfccac41f718831ac8a2c24723eb9d959
+E
+src/ch7/InnerEx2.java,e\0\e05e081e6cd4bf76bd8d2384d20147aca0c608c8
+E
+src/ch7/InnerEx3.java,2\4\24ef224e231837b2ece1ad7e9c88854caac83055
+E
+src/ch7/InnerEx4.java,a\9\a92d4ee3c2ba908fdb2d60d8b34fb6c64693a1cb
+E
+src/ch7/InnerEx5.java,5\5\55ac0d455d723af4b383f0c1b6d9dc6759976f49
