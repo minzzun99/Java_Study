@@ -1128,3 +1128,5 @@ K
 src/ch7/InterfaceTest2.java,0\7\072c057f20a11a968359cf5aff98330ac4e61c6c
 K
 src/ch7/InterfaceTest3.java,0\e\0ed614db67a1e448403d929d016eeaf6189d9048
+N
+src/ch7/DefaultMethodTest.java,e\1\e130c17cda33a738fe76981fd39a05bb825321b6
