@@ -1122,3 +1122,7 @@ G
 src/ch7/ParserTest.java,a\9\a9aa307456d5c4e11386aec9f448a77569eef722
 K
 src/ch7/RepairableTest.java,8\3\83e6c19538b449ff099f7ae724978c90d6296ca0
+J
+src/ch7/InterfaceTest.java,3\b\3b2a1173f9e766bb223619bbea411fba33c35972
+K
+src/ch7/InterfaceTest2.java,0\7\072c057f20a11a968359cf5aff98330ac4e61c6c
