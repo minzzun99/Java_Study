@@ -1126,3 +1126,5 @@ J
 src/ch7/InterfaceTest.java,3\b\3b2a1173f9e766bb223619bbea411fba33c35972
 K
 src/ch7/InterfaceTest2.java,0\7\072c057f20a11a968359cf5aff98330ac4e61c6c
+K
+src/ch7/InterfaceTest3.java,0\e\0ed614db67a1e448403d929d016eeaf6189d9048
