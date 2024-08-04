@@ -1,0 +1,12 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ûô†p
+G	java:S106"+Replace this use of System.out by a logger.(ôæµË8†±ğ¼2
+L	java:S106
+"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ˆ±ğ¼2
+G	java:S106"+Replace this use of System.out by a logger.(òĞˆ‘8³ãğ¼2
+L	java:S106"+Replace this use of System.out by a logger.(­Ö”©üÿÿÿÿ8´ãğ¼2
+F
+java:S2387")"x" is the name of a field in "Parent02".(µ¸º8†±ğ¼2
+L	java:S106"+Replace this use of System.out by a logger.(­Äªúÿÿÿÿ8áµõ¼2
+L	java:S106"+Replace this use of System.out by a logger.(õåúÿÿÿÿ8ãµõ¼2
+L	java:S106"+Replace this use of System.out by a logger.(ì¦œÕşÿÿÿÿ8ãµõ¼2

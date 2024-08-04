@@ -1,0 +1,10 @@
+
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ûô†p8†¸Óé2
+W
+java:S1854":Remove this useless assignment to local variable "marine".(Ê¬…æ8Ó«Øé2
+H
+java:S1481"+Remove this unused "marine" local variable.(Ê¬…æ8Ô«Øé2
+r	java:S116"QRename this field "MAX_HP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨–—›üÿÿÿÿ8‹¸Óé2
+]
+java:S6201L"@Replace this instanceof check and cast with 'instanceof Unit1 u'(æûÆ»8íìÔé2
+L	java:S106Q"+Replace this use of System.out by a logger.(Š†Ç¼ÿÿÿÿÿ8¶ˆÖé2

@@ -1,0 +1,31 @@
+
+v
+java:S1192"TDefine a constant instead of duplicating this literal "ì´ë©°, í¬ê¸°ëŠ” (" 4 times.(ÜàÙıÿÿÿÿ8ƒ¿¶«‹2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ¥ß–øÿÿÿÿ8Ñğ­«‹2
+L	java:S106"+Replace this use of System.out by a logger.(ùº«‘úÿÿÿÿ8Öğ­«‹2
+G	java:S106"+Replace this use of System.out by a logger.(ãÊÛÜ8Öğ­«‹2
+L	java:S106"+Replace this use of System.out by a logger.(ÜàÙıÿÿÿÿ8Òˆ°«‹2
+W
+java:S2209"5Change this instance-reference to a static reference.(ÜàÙıÿÿÿÿ8ÿõ±«‹2
+W
+java:S2209"5Change this instance-reference to a static reference.(ÜàÙıÿÿÿÿ8‚Û²«‹2
+G	java:S106"+Replace this use of System.out by a logger.(à°ŠÍ8‹Ô³«‹2
+R
+java:S2209"5Change this instance-reference to a static reference.(à°ŠÍ8‹Ô³«‹2
+R
+java:S2209"5Change this instance-reference to a static reference.(à°ŠÍ8‹Ô³«‹2
+L	java:S106"+Replace this use of System.out by a logger.(Ñø‘Áøÿÿÿÿ8’“¶«‹2
+W
+java:S2209"5Change this instance-reference to a static reference.(ö¼¤¬ûÿÿÿÿ8’“¶«‹2
+Q
+java:S2209"5Change this instance-reference to a static reference.(·Û§8’“¶«‹2
+L	java:S106"+Replace this use of System.out by a logger.(ÜàÙıÿÿÿÿ8¿¶«‹2
+W
+java:S2209"5Change this instance-reference to a static reference.(ÜàÙıÿÿÿÿ8¿¶«‹2
+W
+java:S2209"5Change this instance-reference to a static reference.(ÜàÙıÿÿÿÿ8¿¶«‹2
+G	java:S106"+Replace this use of System.out by a logger.(à°ŠÍ8¿¶«‹2
+R
+java:S2209"5Change this instance-reference to a static reference.(à°ŠÍ8¿¶«‹2
+R
+java:S2209"5Change this instance-reference to a static reference.(à°ŠÍ8¿¶«‹2

@@ -1,0 +1,18 @@
+
+>
+java:S1643"Use a StringBuilder instead.(ù¤ë³øÿÿÿÿ8§­™ˆŒ2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ¥ß–øÿÿÿÿ8¨­™ˆŒ2
+L	java:S106"+Replace this use of System.out by a logger.(ôŸÍûÿÿÿÿ8¯­™ˆŒ2
+G	java:S106"+Replace this use of System.out by a logger.(å·‹×8°­™ˆŒ2
+G	java:S106	"+Replace this use of System.out by a logger.(ˆ—›8°­™ˆŒ2
+U
+java:S3878	"8Remove this array creation and simply pass the elements.(ˆ—›8°­™ˆŒ2
+G	java:S106
+"+Replace this use of System.out by a logger.(†ÚÒæ8²­™ˆŒ2
+8
+java:S3878
+"Remove this array creation.(†ÚÒæ8²­™ˆŒ2
+G	java:S106"+Replace this use of System.out by a logger.(Ï·æÉ8²­™ˆŒ2
+G
+java:S3457"%String contains no format specifiers.(¹—¿‰şÿÿÿÿ8Ô‚ ÕŒ2
+L	java:S106"+Replace this use of System.out by a logger.(¹—¿‰şÿÿÿÿ8Ô‚ ÕŒ2

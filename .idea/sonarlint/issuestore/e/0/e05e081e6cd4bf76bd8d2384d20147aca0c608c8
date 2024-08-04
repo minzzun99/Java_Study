@@ -1,0 +1,29 @@
+
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ûô†p8•ÀÑ†‘2
+d
+java:S2094"BRemove this empty class, write its code or make it an "interface".(ÎèÁûÿÿÿÿ8ŸÀÑ†‘2
+_
+java:S2094"BRemove this empty class, write its code or make it an "interface".(•¾ÿØ8ŸÀÑ†‘2
+U
+java:S1854"8Remove this useless assignment to local variable "obj1".(—ø£â8¡ÀÑ†‘2
+U
+java:S1854"8Remove this useless assignment to local variable "obj2".(Ä¿»°8¡ÀÑ†‘2
+F
+java:S1481")Remove this unused "obj2" local variable.(Ä¿»°8£ÀÑ†‘2
+F
+java:S1481")Remove this unused "obj1" local variable.(—ø£â8£ÀÑ†‘2
+U
+java:S1854"8Remove this useless assignment to local variable "obj2".(Ä¿»°8“™Ù†‘2
+U
+java:S1854"8Remove this useless assignment to local variable "obj1".(Ğã­Ø8ƒøÔ†‘2
+F
+java:S1481")Remove this unused "obj1" local variable.(Ğã­Ø8ƒøÔ†‘2
+F
+java:S1481")Remove this unused "obj2" local variable.(Ä¿»°8“™Ù†‘2
+X	java:S125"<This block of commented-out lines of code should be removed.(”¯Ä¥8…ÿÙ†‘2
+X
+java:S1854"6Remove this useless assignment to local variable "lv".(ôø­‚ÿÿÿÿÿ8ğÌÙ†‘2
+_
+java:S2094"BRemove this empty class, write its code or make it an "interface".(”Üúå8”™Ù†‘2
+I
+java:S1481"'Remove this unused "lv" local variable.(ôø­‚ÿÿÿÿÿ8ñÌÙ†‘2

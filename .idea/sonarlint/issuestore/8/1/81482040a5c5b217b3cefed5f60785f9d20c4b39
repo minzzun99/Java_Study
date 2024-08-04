@@ -1,0 +1,11 @@
+
+l
+java:S1192"JDefine a constant instead of duplicating this literal ", door = " 4 times.(¨÷Ô¸ùÿÿÿÿ8ËûÈÖŒ2
+p
+java:S1192"NDefine a constant instead of duplicating this literal ", gearType = " 4 times.(²ç¨¤úÿÿÿÿ8ÌûÈÖŒ2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ¥ß–øÿÿÿÿ8¿ÚÂÖŒ2
+L	java:S106"+Replace this use of System.out by a logger.(²ç¨¤úÿÿÿÿ8ÙõÆÖŒ2
+G	java:S106"+Replace this use of System.out by a logger.(©àĞ¨8ÙõÆÖŒ2
+L	java:S106 "+Replace this use of System.out by a logger.(òşüüúÿÿÿÿ8İûÈÖŒ2
+L	java:S106!"+Replace this use of System.out by a logger.(²ç¨¤úÿÿÿÿ8İûÈÖŒ2
+G	java:S106#"+Replace this use of System.out by a logger.(©àĞ¨8ŞûÈÖŒ2

@@ -1,0 +1,6 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ûô†p
+q
+java:S1845"ORename method "power" to prevent any misunderstanding/clash with field "power".(Ì¸ïÛıÿÿÿÿ8‹åÉ2
+G	java:S106"+Replace this use of System.out by a logger.(”“î€8†åÕÿ2
+G	java:S106!"+Replace this use of System.out by a logger.(ŒùŠá8±«Øÿ2

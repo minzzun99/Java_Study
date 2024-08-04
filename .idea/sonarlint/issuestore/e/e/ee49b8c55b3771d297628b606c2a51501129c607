@@ -1,0 +1,10 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ûô†p
+L	java:S106"+Replace this use of System.out by a logger.(¤¸¤ûÿÿÿÿ8ßÍàâ2
+L	java:S106	"+Replace this use of System.out by a logger.(¤¸¤ûÿÿÿÿ8·÷çâ2
+t
+java:S4144*"WUpdate this method so that its implementation is not identical to "getHour" on line 22.(“Œé8Ãòİâ2
+e
+java:S1659"CDeclare "minute" and all following declarations on a separate line.(ûÅÓ×úÿÿÿÿ8Š·â2
+c
+java:S4275*"FRefactor this getter so that it actually refers to the field "second".(“Œé8Æòİâ2

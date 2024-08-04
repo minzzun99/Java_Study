@@ -1,0 +1,11 @@
+
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ûô†p8œ±ÂÉ2
+G	java:S106"+Replace this use of System.out by a logger.(Áß‡Ü8Ï“ÎÉ2
+G	java:S106"+Replace this use of System.out by a logger.(Áß‡Ü8âÏĞÉ2
+t	java:S116"SRename this field "CARD_NUM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÇŠØøÿÿÿÿ8£±ÂÉ2
+C
+java:S1170"!Make this final field static too.(şÇŠØøÿÿÿÿ8£±ÂÉ2
+F
+java:S2140"")Use "java.util.Random.nextInt()" instead.(³„Û„8àËÅÉ2
+E
+java:S2140(")Use "java.util.Random.nextInt()" instead.(±¯µ%8¯²ÈÉ2
