@@ -2292,3 +2292,7 @@ E
 src/ch7/InnerEx6.java,c\2\c2192d181a784219d59e260e783370356376a89c
 E
 src/ch7/InnerEx7.java,b\2\b2dded8acee9faf828ed4565131c4963e914162a
+E
+src/ch7/InnerEx8.java,5\4\54b50462056ed65a1683d15cf7f97bca620fff0c
+I
+src/ch8/ExceptionEx1.java,d\b\dbdb3d9b49a60d998aebf42b48aaa5a97d1a1a77
