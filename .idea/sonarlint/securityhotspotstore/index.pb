@@ -2296,3 +2296,5 @@ E
 src/ch7/InnerEx8.java,5\4\54b50462056ed65a1683d15cf7f97bca620fff0c
 I
 src/ch8/ExceptionEx1.java,d\b\dbdb3d9b49a60d998aebf42b48aaa5a97d1a1a77
+I
+src/ch8/ExceptionEx2.java,9\e\9efe23182f9f63f90afba931b0814c2f9e2680e7
