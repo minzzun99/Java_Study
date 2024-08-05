@@ -2288,3 +2288,7 @@ w
 G.idea/sonarlint/issuestore/9/f/9fc513bc99dc9090bfb059afdd73d1f88d3f0806,6\7\6752898518c504a4228935113487f01418e111df
 w
 G.idea/sonarlint/issuestore/a/e/ae5a903dc2c917daec112ac861fdff40c5f43b72,9\f\9fd0e5756888cf8a667d21ad16e62696b1d316cd
+E
+src/ch7/InnerEx6.java,c\2\c2192d181a784219d59e260e783370356376a89c
+E
+src/ch7/InnerEx7.java,b\2\b2dded8acee9faf828ed4565131c4963e914162a
