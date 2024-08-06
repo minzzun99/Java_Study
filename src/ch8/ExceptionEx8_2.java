@@ -10,6 +10,7 @@ public class ExceptionEx8_2 {
             // NullPointerException 발생
             s = s.toLowerCase();
             System.out.println(s);
+
             // ArithmeticException 발생
             System.out.println(0 / 0);
             System.out.println(4);
