@@ -2300,3 +2300,7 @@ I
 src/ch8/ExceptionEx2.java,9\e\9efe23182f9f63f90afba931b0814c2f9e2680e7
 I
 src/ch8/ExceptionEx3.java,6\5\652bee06ca3434191bb63e63212fc693fabf36a4
+I
+src/ch8/ExceptionEx4.java,c\4\c4b6b5e69820b2a73be7d7b57721f16b2f09bf08
+I
+src/ch8/ExceptionEx5.java,b\9\b9f5ce1536d44097063350047dc617376f1ab2bb
