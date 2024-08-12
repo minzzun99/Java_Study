@@ -2312,3 +2312,5 @@ I
 src/ch8/ExceptionEx8.java,c\f\cf496e9e6f53fc8b1ab910633a25cf849195ab19
 K
 src/ch8/ExceptionEx8_2.java,3\7\373312c0d376cac29583ab84a963f15b3116cb40
+I
+src/ch8/ExceptionEx9.java,8\8\8893f539a31ba5904323f49742fbba56e5825f16
