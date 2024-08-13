@@ -2320,3 +2320,11 @@ J
 src/ch8/ExceptionEx11.java,2\e\2e0fdab0099edafbaf4a0a9a4f2ef316518d17d4
 H
 src/ch8/Exception12.java,7\b\7beab066e6feb6e8af4a77dfc4cb1ed432397784
+J
+src/ch8/ExceptionEx13.java,3\e\3e55fc60edad257a29311493e855816e17524cd4
+J
+src/ch8/ExceptionEx14.java,2\b\2bf74b3be559a42c171a04fb08131d1738a756bc
+J
+src/ch8/ExceptionEx15.java,b\0\b08ece0fc8be3923e8762fd34a01735e94988c5e
+J
+src/ch8/ExceptionEx16.java,6\2\625474527b9a428e0ee1142a80e99be3f56c895c
