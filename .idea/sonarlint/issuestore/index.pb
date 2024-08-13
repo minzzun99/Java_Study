@@ -2328,3 +2328,7 @@ J
 src/ch8/ExceptionEx15.java,b\0\b08ece0fc8be3923e8762fd34a01735e94988c5e
 J
 src/ch8/ExceptionEx16.java,6\2\625474527b9a428e0ee1142a80e99be3f56c895c
+H
+src/ch8/FinallyTest.java,0\3\032c1a485ce5a17501cc6abb7a200f8bdc48394d
+I
+src/ch8/FinallyTest2.java,1\f\1f6b2ec78a1e2c1fb85c633f8dbc90bbfc83d211
