@@ -2334,3 +2334,5 @@ I
 src/ch8/FinallyTest2.java,1\f\1f6b2ec78a1e2c1fb85c633f8dbc90bbfc83d211
 I
 src/ch8/FinallyTest3.java,c\c\cca66463adcf7f2303cd961d74e78b697296d14c
+N
+src/ch8/TryWithResourceEx.java,a\5\a5c17217a3de43e93831027934d678aeb7b9cb88
