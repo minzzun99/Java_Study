@@ -2332,3 +2332,5 @@ H
 src/ch8/FinallyTest.java,0\3\032c1a485ce5a17501cc6abb7a200f8bdc48394d
 I
 src/ch8/FinallyTest2.java,1\f\1f6b2ec78a1e2c1fb85c633f8dbc90bbfc83d211
+I
+src/ch8/FinallyTest3.java,c\c\cca66463adcf7f2303cd961d74e78b697296d14c
