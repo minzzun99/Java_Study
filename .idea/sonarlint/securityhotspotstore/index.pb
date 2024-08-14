@@ -2336,3 +2336,5 @@ I
 src/ch8/FinallyTest3.java,c\c\cca66463adcf7f2303cd961d74e78b697296d14c
 N
 src/ch8/TryWithResourceEx.java,a\5\a5c17217a3de43e93831027934d678aeb7b9cb88
+M
+src/ch8/NewExceptionTest.java,9\b\9b14c6e70c874749ed34cf8d161476583b3c7c7e
