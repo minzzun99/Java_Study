@@ -14,7 +14,7 @@ public class ExceptionEx17 {
             throw new Exception();
         } catch (Exception e) {
             System.out.println("method1()에서 예외가 처리되었습니다.");
-            throw e;
+            throw e;            // 다시 예외 발생
         }
     }
 }
