@@ -2338,3 +2338,5 @@ N
 src/ch8/TryWithResourceEx.java,a\5\a5c17217a3de43e93831027934d678aeb7b9cb88
 M
 src/ch8/NewExceptionTest.java,9\b\9b14c6e70c874749ed34cf8d161476583b3c7c7e
+J
+src/ch8/ExceptionEx17.java,8\d\8d8c013098614ac6700aee0e9bcbc9abde4078e9
