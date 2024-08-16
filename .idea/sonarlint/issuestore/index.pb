@@ -2348,3 +2348,9 @@ F
 src/ch9/EqualsEx2.java,8\5\85bc8c3b7f49e25809244cf02f07440d8dbd201e
 H
 src/ch9/HashCodeEx1.java,a\6\a697b13089328b806f5aa963d0531a65b9908918
+I
+src/ch9/CardToString.java,5\f\5f67d7fdca7033637baea08717e7269dd8f31a0b
+I
+src/ch9/ToStringTest.java,9\c\9cf702f4eb5d018681629945d7f1e60e1635fddc
+J
+src/ch9/CardToString2.java,8\a\8acc03e15364db2aeaccf6af91218b1d98ba1e4e
