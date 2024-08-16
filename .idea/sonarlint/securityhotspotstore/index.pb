@@ -2344,3 +2344,5 @@ O
 src/ch8/ChainedExceptionEx.java,1\a\1a0f63cc26b45a466fc544dbc3d0535fb3e90bdb
 F
 src/ch9/EqualsEx1.java,9\8\9887c9d042f285cd4ea6b97f4f96ec42b86ef365
+F
+src/ch9/EqualsEx2.java,8\5\85bc8c3b7f49e25809244cf02f07440d8dbd201e
