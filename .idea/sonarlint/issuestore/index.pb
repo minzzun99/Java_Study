@@ -2346,3 +2346,5 @@ F
 src/ch9/EqualsEx1.java,9\8\9887c9d042f285cd4ea6b97f4f96ec42b86ef365
 F
 src/ch9/EqualsEx2.java,8\5\85bc8c3b7f49e25809244cf02f07440d8dbd201e
+H
+src/ch9/HashCodeEx1.java,a\6\a697b13089328b806f5aa963d0531a65b9908918
