@@ -2342,3 +2342,5 @@ J
 src/ch8/ExceptionEx17.java,8\d\8d8c013098614ac6700aee0e9bcbc9abde4078e9
 O
 src/ch8/ChainedExceptionEx.java,1\a\1a0f63cc26b45a466fc544dbc3d0535fb3e90bdb
+F
+src/ch9/EqualsEx1.java,9\8\9887c9d042f285cd4ea6b97f4f96ec42b86ef365
