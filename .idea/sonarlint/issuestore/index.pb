@@ -2356,3 +2356,5 @@ J
 src/ch9/CardToString2.java,8\a\8acc03e15364db2aeaccf6af91218b1d98ba1e4e
 E
 src/ch9/CloneEx1.java,d\4\d4209345e2f32999457f5d9fda528c0c6107d0e8
+E
+src/ch9/CloneEx2.java,b\9\b9cb1beb6398beca51e9ed28e9d0d3624dcc44ef
