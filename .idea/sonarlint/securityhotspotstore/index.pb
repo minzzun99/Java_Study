@@ -2354,3 +2354,5 @@ I
 src/ch9/ToStringTest.java,9\c\9cf702f4eb5d018681629945d7f1e60e1635fddc
 J
 src/ch9/CardToString2.java,8\a\8acc03e15364db2aeaccf6af91218b1d98ba1e4e
+E
+src/ch9/CloneEx1.java,d\4\d4209345e2f32999457f5d9fda528c0c6107d0e8
