@@ -2362,3 +2362,5 @@ L
 src/ch9/ShallowDeepCopy.java,9\c\9c3b59522ef7cca9d29fd22c67edf2cf8019a04e
 E
 src/ch9/ClassEx1.java,f\5\f53c91d07e3ff1207f9a96d02037e71afe05a921
+F
+src/ch9/StringEx1.java,e\2\e2a1b3911eb7d78eadbfd29aa9e125496154ac6d
