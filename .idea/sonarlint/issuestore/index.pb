@@ -2358,3 +2358,5 @@ E
 src/ch9/CloneEx1.java,d\4\d4209345e2f32999457f5d9fda528c0c6107d0e8
 E
 src/ch9/CloneEx2.java,b\9\b9cb1beb6398beca51e9ed28e9d0d3624dcc44ef
+L
+src/ch9/ShallowDeepCopy.java,9\c\9c3b59522ef7cca9d29fd22c67edf2cf8019a04e
