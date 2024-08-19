@@ -2364,3 +2364,5 @@ E
 src/ch9/ClassEx1.java,f\5\f53c91d07e3ff1207f9a96d02037e71afe05a921
 F
 src/ch9/StringEx1.java,e\2\e2a1b3911eb7d78eadbfd29aa9e125496154ac6d
+F
+src/ch9/StringEx2.java,3\8\3843d98354aedf6ae6c7ff36eb647de5b33654f9
