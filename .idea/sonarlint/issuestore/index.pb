@@ -2372,3 +2372,5 @@ F
 src/ch9/StringEx4.java,8\b\8b2ff6b9770909b497f1213a3ac40ddebbd146d6
 F
 src/ch9/StrintEx5.java,0\6\0681014d99163012227b15d0002d8f201355850f
+F
+src/ch9/StringEx6.java,a\5\a597786087bf41213e3ecb9597ada2c7a22cd5be
