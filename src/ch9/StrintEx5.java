@@ -3,7 +3,7 @@ package ch9;
 import java.util.StringJoiner;
 
 public class StrintEx5 {
-    public static void main(String[] args) throws Exception{
+    public static void main(String[] args) throws Exception {
         String str = "가";
 
         byte[] bArr = str.getBytes("UTF-8");
