@@ -2382,3 +2382,5 @@ L
 src/ch9/StringBufferEx2.java,4\5\45c3f2cc842a7aede2a819f0df44f6a8aa6ad60b
 D
 src/ch9/MathEx1.java,c\8\c8e6513e1eb49c755584565fe84698ad21f08bc7
+E
+src/ch12/EnumEx1.java,d\0\d0d3077df2008b378cda960f2faf2a42c9ec47fc
