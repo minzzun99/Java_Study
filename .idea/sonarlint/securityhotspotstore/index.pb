@@ -2386,3 +2386,5 @@ E
 src/ch12/EnumEx1.java,d\0\d0d3077df2008b378cda960f2faf2a42c9ec47fc
 E
 src/ch12/EnumEx2.java,c\c\cc47723689ace47364fcb01c56002b239a8cd419
+D
+src/ch9/MathEx2.java,f\c\fc00e5156e87b131327f533bfbc6a0e86360b720
