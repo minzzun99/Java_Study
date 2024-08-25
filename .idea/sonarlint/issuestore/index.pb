@@ -2390,3 +2390,5 @@ D
 src/ch9/MathEx2.java,f\c\fc00e5156e87b131327f533bfbc6a0e86360b720
 D
 src/ch9/MathEx3.java,7\3\73477efa9399a2456950636b99417e0ef2c096a4
+F
+src/ch9/RandomEx1.java,d\b\dbcbf97a5b98a31222b039ba346c6f6a4589ae10
