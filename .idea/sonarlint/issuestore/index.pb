@@ -2392,3 +2392,5 @@ D
 src/ch9/MathEx3.java,7\3\73477efa9399a2456950636b99417e0ef2c096a4
 F
 src/ch9/RandomEx1.java,d\b\dbcbf97a5b98a31222b039ba346c6f6a4589ae10
+G
+src/ch9/WrapperEx1.java,3\5\35be1a0711c4ccc2e807785af7682025ed74d65a
