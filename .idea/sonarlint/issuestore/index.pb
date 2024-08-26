@@ -2394,3 +2394,5 @@ F
 src/ch9/RandomEx1.java,d\b\dbcbf97a5b98a31222b039ba346c6f6a4589ae10
 G
 src/ch9/WrapperEx1.java,3\5\35be1a0711c4ccc2e807785af7682025ed74d65a
+G
+src/ch9/WrapperEx2.java,8\7\879670602b97fb5d63461cbd63737a34d08191a0
