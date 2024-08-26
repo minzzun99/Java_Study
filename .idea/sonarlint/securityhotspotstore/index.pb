@@ -2398,3 +2398,5 @@ G
 src/ch9/WrapperEx2.java,8\7\879670602b97fb5d63461cbd63737a34d08191a0
 G
 src/ch9/WrapperEx3.java,c\e\ce1c1eddd97eb7dcacd726736a90597591200adf
+G
+src/ch9/ObjectTest.java,3\9\39eb6ae66dcbbad956133842ee2bb71714f5b4fa
