@@ -2406,3 +2406,5 @@ F
 src/ch9/RandomEx3.java,8\b\8b723b934d4adff20656232362d839e42dab7950
 E
 src/ch9/RadomEx4.java,f\3\f30430fcf6cf388e47b158fe7ed71bbda411fa4d
+G
+src/ch9/RegularEx1.java,a\a\aa910962b35ea1a0fe8a2acb950272ac37c12fe6
