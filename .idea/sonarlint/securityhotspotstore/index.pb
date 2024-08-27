@@ -2402,3 +2402,5 @@ G
 src/ch9/ObjectTest.java,3\9\39eb6ae66dcbbad956133842ee2bb71714f5b4fa
 F
 src/ch9/RandomEx2.java,8\1\8142139a3821c04a4006bb4c1c0165917a8c4ac0
+F
+src/ch9/RandomEx3.java,8\b\8b723b934d4adff20656232362d839e42dab7950
