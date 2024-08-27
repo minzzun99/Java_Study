@@ -2400,3 +2400,5 @@ G
 src/ch9/WrapperEx3.java,c\e\ce1c1eddd97eb7dcacd726736a90597591200adf
 G
 src/ch9/ObjectTest.java,3\9\39eb6ae66dcbbad956133842ee2bb71714f5b4fa
+F
+src/ch9/RandomEx2.java,8\1\8142139a3821c04a4006bb4c1c0165917a8c4ac0
