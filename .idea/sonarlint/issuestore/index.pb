@@ -2408,3 +2408,9 @@ E
 src/ch9/RadomEx4.java,f\3\f30430fcf6cf388e47b158fe7ed71bbda411fa4d
 G
 src/ch9/RegularEx1.java,a\a\aa910962b35ea1a0fe8a2acb950272ac37c12fe6
+G
+src/ch9/RegularEx2.java,3\b\3bd285912f5513c8db0e0818f7385e274d53015d
+G
+src/ch9/RegularEx3.java,4\1\4158bdb11d887301ffa7503e6e05ddb7b00ccd73
+G
+src/ch9/RegularEx4.java,e\e\eee8a091c805dffdd3e5cf188287d4580bf4b616
