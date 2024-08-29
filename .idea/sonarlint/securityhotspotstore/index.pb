@@ -2416,3 +2416,7 @@ G
 src/ch9/RegularEx4.java,e\e\eee8a091c805dffdd3e5cf188287d4580bf4b616
 G
 src/ch9/ScannerEx1.java,5\5\55daeb2fa860f6bda3a320767b7613558753056d
+G
+src/ch9/ScannerEx2.java,7\6\762bbfa36410775614653291aeb509fa8a4786e6
+A
+src/ch9/data2.txt,b\9\b9d701bc0297662c5b3207d30de20d5519c22f83
