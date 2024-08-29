@@ -2414,3 +2414,5 @@ G
 src/ch9/RegularEx3.java,4\1\4158bdb11d887301ffa7503e6e05ddb7b00ccd73
 G
 src/ch9/RegularEx4.java,e\e\eee8a091c805dffdd3e5cf188287d4580bf4b616
+G
+src/ch9/ScannerEx1.java,5\5\55daeb2fa860f6bda3a320767b7613558753056d
