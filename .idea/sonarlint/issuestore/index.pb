@@ -2420,3 +2420,7 @@ G
 src/ch9/ScannerEx2.java,7\6\762bbfa36410775614653291aeb509fa8a4786e6
 A
 src/ch9/data2.txt,b\9\b9d701bc0297662c5b3207d30de20d5519c22f83
+G
+src/ch9/ScannerEx3.java,a\6\a68d7d1d869fe79b5ba5b1b8285f7dcb21c4d6d6
+A
+src/ch9/data3.txt,a\d\adbcff98af8c09d49ed1a928c923108525e22a4a
