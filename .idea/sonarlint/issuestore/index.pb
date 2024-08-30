@@ -2424,3 +2424,13 @@ G
 src/ch9/ScannerEx3.java,a\6\a68d7d1d869fe79b5ba5b1b8285f7dcb21c4d6d6
 A
 src/ch9/data3.txt,a\d\adbcff98af8c09d49ed1a928c923108525e22a4a
+O
+src/ch9/StringTokenizerEx1.java,2\7\27bc8e38aa9e216eb7fc7917eb59541ece1c6274
+O
+src/ch9/StringTokenizerEx2.java,2\e\2e78ce8f24b0d8cc2db2d26c2c3baed569cbbecb
+O
+src/ch9/StringTokenizerEx3.java,2\b\2bef17f9d3424a4e2ac3b4d872922b165c129da9
+O
+src/ch9/StringTokenizerEx4.java,f\3\f3ba0a17ec5e64dca2f5bfb9ffd67eaf016bc658
+O
+src/ch9/StringTokenizerEx5.java,0\f\0fbc8c36d9b73378d3c53ba05de9cb45918cb91c
