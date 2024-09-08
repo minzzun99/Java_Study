@@ -2438,3 +2438,5 @@ I
 src/ch9/BigIntegerEx.java,7\6\768de7219d49108781d3aa7ce7187af42bd60421
 I
 src/ch9/BigDecimalEx.java,3\7\3758e135eae3218d5e9a64782e9a8f7ebaecde1c
+J
+src/ch11/ArrayListEx1.java,6\e\6e1c10e4d42f61ce2b1397ecda57f58ca308b9c8
