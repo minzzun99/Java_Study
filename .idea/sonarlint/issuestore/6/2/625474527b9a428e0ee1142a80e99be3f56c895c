@@ -1,0 +1,7 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(éœ·ıøÿÿÿÿ8ÍÊõÌ”2
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(øÏ×”8ÎÊõÌ”2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£ğ’ãúÿÿÿÿ8ÏÊõÌ”2
+L	java:S106	"+Replace this use of System.out by a logger.(»—©Úûÿÿÿÿ8İÊõÌ”2
+G	java:S106"+Replace this use of System.out by a logger.(¿ù¯ 8İÊõÌ”2
+c	java:S899"BDo something with the "boolean" value returned by "createNewFile".(ôü¿Ÿÿÿÿÿÿ8àÊõÌ”2

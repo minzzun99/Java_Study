@@ -1,0 +1,11 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£ğ’ãúÿÿÿÿ8üï¤•2
+T
+java:S2589 "7Remove this expression which always evaluates to "true"(Ê‡Óï8‡ï¤•2
+`
+java:S2147	"CCombine this catch with the one at line 7, which has the same body.(”ı¾8Ãûï¤•2
+X	java:S125%"<This block of commented-out lines of code should be removed.(ÄÂ³°8ï¤•2
+U
+java:S3400."9Remove this method and declare a constant for this value.(¸®Ã'8‘ï¤•2
+V
+java:S34003"9Remove this method and declare a constant for this value.(§¼Éç8‘ï¤•2

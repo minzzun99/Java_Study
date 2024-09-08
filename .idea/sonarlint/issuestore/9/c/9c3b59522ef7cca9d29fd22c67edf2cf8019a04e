@@ -1,0 +1,19 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼ÕØšúÿÿÿÿ8“£™¬–2
+a
+java:S2259"?A "NullPointerException" could be thrown; "c" is nullable here.(ô¿Úàùÿÿÿÿ8˜£™¬–2
+G
+java:S2157"%Add a "clone()" method to this class.(Æ€¼·şÿÿÿÿ8˜£™¬–2
+E	java:S108")Either remove or fill this block of code.(õ¹á8›£™¬–2
+E	java:S108")Either remove or fill this block of code.(õ¹á8›£™¬–2
+G
+java:S2157)"%Add a "clone()" method to this class.(«Ÿ³ûÿÿÿÿ8œ£™¬–2
+A
+java:S1659*"Declare "y" on a separate line.(¡Ê²‘şÿÿÿÿ8œ£™¬–2
+G	java:S106<"+Replace this use of System.out by a logger.(çÖÃÚ8»Ù›¬–2
+L	java:S106="+Replace this use of System.out by a logger.(ø¶ğ²ùÿÿÿÿ8»Ù›¬–2
+G	java:S106>"+Replace this use of System.out by a logger.(¾ë¸ü8»Ù›¬–2
+L	java:S106B"+Replace this use of System.out by a logger.(ü÷¿ãşÿÿÿÿ8¬¬–2
+G	java:S106C"+Replace this use of System.out by a logger.(çÖÃÚ8èÑ¬–2
+L	java:S106D"+Replace this use of System.out by a logger.(ø¶ğ²ùÿÿÿÿ8éÑ¬–2
+G	java:S106E"+Replace this use of System.out by a logger.(¾ë¸ü8éÑ¬–2

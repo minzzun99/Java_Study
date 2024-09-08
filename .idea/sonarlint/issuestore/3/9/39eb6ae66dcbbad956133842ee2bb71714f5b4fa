@@ -1,0 +1,21 @@
+
+Q
+java:S3740!"/Provide the parametrized type for this generic.(ÂÆğúÿÿÿÿ8–º¤ñ˜2
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Ø€§8—º¤ñ˜2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼ÕØšúÿÿÿÿ8˜º¤ñ˜2
+L	java:S106"+Replace this use of System.out by a logger.(Ç±“Êşÿÿÿÿ8¢º¤ñ˜2
+L	java:S106"+Replace this use of System.out by a logger.(¯äó×ûÿÿÿÿ8¢º¤ñ˜2
+L	java:S106"+Replace this use of System.out by a logger.(‹¾úúüÿÿÿÿ8¢º¤ñ˜2
+G	java:S106"+Replace this use of System.out by a logger.(öôÒ«8¢º¤ñ˜2
+L	java:S106"+Replace this use of System.out by a logger.(¯äó×ûÿÿÿÿ8£º¤ñ˜2
+L	java:S106"+Replace this use of System.out by a logger.(‹¾úúüÿÿÿÿ8£º¤ñ˜2
+G	java:S106"+Replace this use of System.out by a logger.(£ÚÉ‚8£º¤ñ˜2
+L	java:S106"+Replace this use of System.out by a logger.(µ®ƒûûÿÿÿÿ8£º¤ñ˜2
+L	java:S106"+Replace this use of System.out by a logger.(¾Ì©åùÿÿÿÿ8£º¤ñ˜2
+G	java:S106"+Replace this use of System.out by a logger.(¡†åÄ8£º¤ñ˜2
+F	java:S106"+Replace this use of System.out by a logger.(‹º¨78¤º¤ñ˜2
+G	java:S106"+Replace this use of System.out by a logger.(”ó¡‡8¤º¤ñ˜2
+L	java:S106"+Replace this use of System.out by a logger.(‰ñêÿÿÿÿÿ8¤º¤ñ˜2
+L	java:S106#"+Replace this use of System.out by a logger.(Òšåúÿÿÿÿ8«º¤ñ˜2
+G	java:S106$"+Replace this use of System.out by a logger.(¨òŒá8åÑ¤ñ˜2
+L	java:S106%"+Replace this use of System.out by a logger.(œ“îúÿÿÿÿ8åÑ¤ñ˜2

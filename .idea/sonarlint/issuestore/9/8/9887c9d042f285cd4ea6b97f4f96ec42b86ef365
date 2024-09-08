@@ -1,0 +1,10 @@
+
+6
+java:S1700"Rename field "value"(âëê¡ıÿÿÿÿ8ÓÉ—Û•2
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼ÕØšúÿÿÿÿ
+e
+java:S2583"CChange this condition so that it does not always evaluate to "true"(«íÕ¸ùÿÿÿÿ8×œÛ•2
+G	java:S106	"+Replace this use of System.out by a logger.(ú†Î8ö¿™Û•2
+L	java:S106"+Replace this use of System.out by a logger.(¤Ú‹“ûÿÿÿÿ8÷¿™Û•2
+G	java:S106"+Replace this use of System.out by a logger.(ú†Î8ÙœÛ•2
+L	java:S106"+Replace this use of System.out by a logger.(¤Ú‹“ûÿÿÿÿ8ÙœÛ•2

@@ -1,0 +1,10 @@
+
+P
+java:S1121".Extract the assignment out of this expression.(Í„¤ÿÿÿÿÿ8È¨”™2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼ÕØšúÿÿÿÿ8É¨”™2
+L	java:S106"+Replace this use of System.out by a logger.(Í„¤ÿÿÿÿÿ8Í¨”™2
+]	java:S125"<This block of commented-out lines of code should be removed.(ßé—¬úÿÿÿÿ8Í¨”™2
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Î¨”™2
+G	java:S106"+Replace this use of System.out by a logger.(¯Éæ8Î¨”™2
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8ğú©”™2

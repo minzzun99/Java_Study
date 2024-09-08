@@ -1,0 +1,18 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼ÕØšúÿÿÿÿ8ÛÁÄğ˜2
+V
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(Ï¤´8äÁÄğ˜2
+e
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(Ï¤´8äÁÄğ˜2
+L	java:S106"+Replace this use of System.out by a logger.(´‹¹öşÿÿÿÿ8æÁÄğ˜2
+]	java:S125"<This block of commented-out lines of code should be removed.(Ëêé ÿÿÿÿÿ8æÁÄğ˜2
+G	java:S106"+Replace this use of System.out by a logger.(à««Ë8æÁÄğ˜2
+G	java:S106"+Replace this use of System.out by a logger.(Ä¼À8æÁÄğ˜2
+L	java:S106"+Replace this use of System.out by a logger.(ñà÷—ûÿÿÿÿ8çÁÄğ˜2
+L	java:S106"+Replace this use of System.out by a logger.(ç¯ÄÚûÿÿÿÿ8çÁÄğ˜2
+F	java:S106"+Replace this use of System.out by a logger.(îŞ)8º¶Åğ˜2
+L	java:S106"+Replace this use of System.out by a logger.(ñÜ…Àùÿÿÿÿ8º¶Åğ˜2
+G	java:S106"+Replace this use of System.out by a logger.(ËÕƒ«8º¶Åğ˜2
+G	java:S106"+Replace this use of System.out by a logger.(‰Õ½ï8²ˆÆğ˜2
+F	java:S106"+Replace this use of System.out by a logger.(È·¬08²ˆÆğ˜2
+G	java:S106 "+Replace this use of System.out by a logger.(ÈˆÌ—8²ˆÆğ˜2

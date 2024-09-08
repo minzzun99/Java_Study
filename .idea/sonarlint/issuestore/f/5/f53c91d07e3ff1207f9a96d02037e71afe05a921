@@ -1,0 +1,11 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(Íõšüÿÿÿÿ8§³Ã¬–2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼ÕØšúÿÿÿÿ8¨³Ã¬–2
+P
+java:S1874"3Remove this use of "newInstance"; it is deprecated.(ºÖ¤¯8³³Ã¬–2
+G	java:S106"+Replace this use of System.out by a logger.(Áß‡Ü8œÛÄ¬–2
+L	java:S106"+Replace this use of System.out by a logger.(£º¾¬øÿÿÿÿ8œÛÄ¬–2
+G	java:S106"+Replace this use of System.out by a logger.(¬ˆ8œÛÄ¬–2
+G	java:S106"+Replace this use of System.out by a logger.(Ó¹úÒ8óÿÅ¬–2
+L	java:S106"+Replace this use of System.out by a logger.(‡¸Ò¦ÿÿÿÿÿ8ß»Æ¬–2

@@ -1,0 +1,15 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼ÕØšúÿÿÿÿ8è½×”™2
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÄŠÛá8ì½×”™2
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ø©ÿÖşÿÿÿÿ8ì½×”™2
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¨¤«¾ûÿÿÿÿ8ì½×”™2
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(»…Æ¶8í½×”™2
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ªı´8í½×”™2
+L	java:S106"+Replace this use of System.out by a logger.(òÖ’æÿÿÿÿÿ8í½×”™2
+F
+java:S2140")Use "java.util.Random.nextInt()" instead.(ñšóê8î½×”™2

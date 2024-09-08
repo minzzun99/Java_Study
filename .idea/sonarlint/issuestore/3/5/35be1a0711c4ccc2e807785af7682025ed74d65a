@@ -1,0 +1,22 @@
+
+Y
+java:S4973	"<Strings and Boxed types should be compared using "equals()".(Õ›Ï8‚í„ğ˜2
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼ÕØšúÿÿÿÿ
+>
+java:S2129"!Remove this "Integer" constructor(ï¶­¤8âú‚ğ˜2
+e
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(ï¶­¤8çú‚ğ˜2
+>
+java:S2129"!Remove this "Integer" constructor(šŞÏ®8ÛÇƒğ˜2
+e
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(šŞÏ®8ÛÇƒğ˜2
+G	java:S106	"+Replace this use of System.out by a logger.(Õ›Ï8Ší„ğ˜2
+L	java:S106
+"+Replace this use of System.out by a logger.(ïÊšışÿÿÿÿ8ªşˆğ˜2
+G	java:S106"+Replace this use of System.out by a logger.(öÉÏ8ªşˆğ˜2
+G	java:S106"+Replace this use of System.out by a logger.(Å‘ôı8µ•ğ˜2
+G	java:S106"+Replace this use of System.out by a logger.(ÿûş8µ•ğ˜2
+L	java:S106"+Replace this use of System.out by a logger.(½³Èÿøÿÿÿÿ8µ•ğ˜2
+G	java:S106"+Replace this use of System.out by a logger.(Ñ€ÿ¥8µ•ğ˜2
+G	java:S106"+Replace this use of System.out by a logger.(Š®İ€8¶•ğ˜2
+G	java:S106"+Replace this use of System.out by a logger.(¢´õ»8õ’ğ˜2

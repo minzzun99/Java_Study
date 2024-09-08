@@ -1,0 +1,21 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼ÕØšúÿÿÿÿ8ˆ¾áğ˜2
+L
+java:S1905"*Remove this unnecessary cast to "Integer".(ÌÑ“§ùÿÿÿÿ8¾áğ˜2
+K
+java:S1905	")Remove this unnecessary cast to "Object".(Å×ïÊşÿÿÿÿ8¾áğ˜2
+>
+java:S2129"!Remove this "Integer" constructor(ÀÁí„8¾áğ˜2
+e
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(ÀÁí„8¾áğ˜2
+C
+java:S1905"&Remove this unnecessary cast to "int".(„«å—8¾áğ˜2
+L	java:S106"+Replace this use of System.out by a logger.(Ğö¶üÿÿÿÿ8¾áğ˜2
+G	java:S106"+Replace this use of System.out by a logger.(¶‚«8¾áğ˜2
+L	java:S106"+Replace this use of System.out by a logger.(„å‰„şÿÿÿÿ8¾áğ˜2
+L	java:S106"+Replace this use of System.out by a logger.(‡š˜ıùÿÿÿÿ8¾áğ˜2
+L	java:S106"+Replace this use of System.out by a logger.(ş´ìÉùÿÿÿÿ8¾áğ˜2
+G	java:S106"+Replace this use of System.out by a logger.(ÙÛí€8¾áğ˜2
+L	java:S106"+Replace this use of System.out by a logger.(£à¿ışÿÿÿÿ8¾áğ˜2
+G	java:S106"+Replace this use of System.out by a logger.(ï¦›ë8¨×áğ˜2
+G	java:S106"+Replace this use of System.out by a logger.(ö¢›„8Õúâğ˜2

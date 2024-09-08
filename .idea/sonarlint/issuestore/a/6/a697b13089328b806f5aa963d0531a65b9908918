@@ -1,0 +1,12 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼ÕØšúÿÿÿÿ
+<
+java:S2129" Remove this "String" constructor(º¤Ð[8ï¾ÝÛ•2
+B
+java:S2129" Remove this "String" constructor(Þï–ßúÿÿÿÿ8ï¾ÝÛ•2
+L	java:S106"+Replace this use of System.out by a logger.(â’â¨ùÿÿÿÿ8ï¾ÝÛ•2
+G	java:S106	"+Replace this use of System.out by a logger.(éÚÐË8ñ¾ÝÛ•2
+F	java:S106
+"+Replace this use of System.out by a logger.(—ùý$8ñ¾ÝÛ•2
+L	java:S106"+Replace this use of System.out by a logger.(¹ãÖÝýÿÿÿÿ8ò¾ÝÛ•2
+L	java:S106"+Replace this use of System.out by a logger.(ÃþÞàüÿÿÿÿ8ò¾ÝÛ•2

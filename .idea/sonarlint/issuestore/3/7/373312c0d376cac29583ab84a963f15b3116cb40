@@ -1,0 +1,15 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÌÏûÁ8€×«³’2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£ğ’ãúÿÿÿÿ8‚×«³’2
+a
+java:S2259"?A "NullPointerException" could be thrown; "s" is nullable here.(¸ªÛ¹úÿÿÿÿ8Œ×«³’2
+L	java:S106"+Replace this use of System.out by a logger.(ìÑÑÈÿÿÿÿÿ8×«³’2
+F	java:S106"+Replace this use of System.out by a logger.(€Ë²:8×«³’2
+L	java:S106	"+Replace this use of System.out by a logger.(Ç‚ş©ÿÿÿÿÿ8‘×«³’2
+L	java:S106"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ8‘×«³’2
+L	java:S106"+Replace this use of System.out by a logger.(ÃÉ´Œüÿÿÿÿ8’×«³’2
+l
+java:S1764"JCorrect one of the identical sub-expressions on both sides of operator "/"(ÃÉ´Œüÿÿÿÿ8’×«³’2
+G	java:S106"+Replace this use of System.out by a logger.(Ö…¾³8’×«³’2
+G	java:S106"+Replace this use of System.out by a logger.(Î½í8’×«³’2
+G	java:S106"+Replace this use of System.out by a logger.(ô›µ’8“×«³’2

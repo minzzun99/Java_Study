@@ -1,0 +1,8 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼ÕØšúÿÿÿÿ8Ó³Ñæ™2
+V
+java:S3518"9Make sure "cnt" can't be zero before doing this division.(Ýž›œ8ß³Ñæ™2
+b
+java:S2095	"EUse try-with-resources or close this "Scanner" in a "finally" clause.(÷è£ø8ß³Ñæ™2
+L	java:S106"+Replace this use of System.out by a logger.(…»Ã‹üÿÿÿÿ8ä³Ñæ™2
+G	java:S106"+Replace this use of System.out by a logger.(Ýž›œ8ä³Ñæ™2

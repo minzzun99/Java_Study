@@ -1,0 +1,26 @@
+
+i
+java:S1192"LDefine a constant instead of duplicating this literal ",\tscale = " 3 times.(Ñ÷¡ƒ8ù‘Äš2
+i
+java:S1192"LDefine a constant instead of duplicating this literal ",\tvalue = " 3 times.(ÖğŞ8ú‘Äš2
+r
+java:S1192"PDefine a constant instead of duplicating this literal ",\tprecision = " 3 times.(—É¾ÿÿÿÿÿ8ú‘Äš2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼ÕØšúÿÿÿÿ8áøÃš2
+G	java:S106"+Replace this use of System.out by a logger.(¯ğ›÷8ëøÃš2
+G	java:S106"+Replace this use of System.out by a logger.(ÖğŞ8ëøÃš2
+G	java:S106"+Replace this use of System.out by a logger.(Ñ÷¡ƒ8îøÃš2
+L	java:S106"+Replace this use of System.out by a logger.(—É¾ÿÿÿÿÿ8îøÃš2
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8îøÃš2
+G	java:S106"+Replace this use of System.out by a logger.(Ó‚Œ¢8îøÃš2
+L	java:S106"+Replace this use of System.out by a logger.(åÇßºÿÿÿÿÿ8ïøÃš2
+L	java:S106"+Replace this use of System.out by a logger.(Êñùüÿÿÿÿÿ8ïøÃš2
+L	java:S106"+Replace this use of System.out by a logger.(†ª»æıÿÿÿÿ8ïøÃš2
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ğøÃš2
+G	java:S106"+Replace this use of System.out by a logger.(ˆôê¿8‹’Äš2
+G	java:S106"+Replace this use of System.out by a logger.(ÒıÙ8‹’Äš2
+L	java:S106"+Replace this use of System.out by a logger.(ß˜ºõûÿÿÿÿ8‹’Äš2
+G	java:S106"+Replace this use of System.out by a logger.(ĞïÍ¶8Œ’Äš2
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Œ’Äš2
+G	java:S106"+Replace this use of System.out by a logger.(¿ã¯8ÂğÅš2
+L	java:S106 "+Replace this use of System.out by a logger.(ù¼ıÿÿÿÿ8œ¤Æš2
+L	java:S106!"+Replace this use of System.out by a logger.(ööˆØûÿÿÿÿ8¤Æš2
