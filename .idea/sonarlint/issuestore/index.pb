@@ -4894,3 +4894,9 @@ Q.idea/sonarlint/securityhotspotstore/1/f/1f6b2ec78a1e2c1fb85c633f8dbc90bbfc83d2
 Q.idea/sonarlint/securityhotspotstore/0/3/032c1a485ce5a17501cc6abb7a200f8bdc48394d,0\0\006786e2cfb2893ab8ebcd032c0a5747c6db0cc2
 Å
 Q.idea/sonarlint/securityhotspotstore/6/2/625474527b9a428e0ee1142a80e99be3f56c895c,e\a\ea0cf6aca61f3e2c787206b82510976a54e009c3
+G
+src/ch11/VectorEx1.java,7\1\712fedca8760213d7fd6167602b7a21885180f4c
+U
+%src/ch11/ArrayListLinkedListTest.java,3\8\38f221307f75d29c360b564834c595194e1efa9e
+V
+&src/ch11/ArrayListLinkedListTest2.java,3\1\315a936a2cd3ce42b3cb930a5c4c9c1013cb8294
